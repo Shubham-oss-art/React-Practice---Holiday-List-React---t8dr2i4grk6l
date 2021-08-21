@@ -40,7 +40,7 @@ class App extends Component {
   render() {
     return (
       <div id="main">
-        {/* Do not remove the main div */}
+        <li key = "locatio">cityList</li>
       </div>
     )
   }
